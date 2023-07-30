@@ -26,5 +26,5 @@ Il y a au total 10 vagues d'ennemies pour finir le jeu ! Bonne chance ;)
 
 # LANCEMENT
 
-Pour lancer le jeu, il suffit de faire un npm start (le jeu se lancera normalement sur le http://localhost:1234 sur le naviguateur)
-
+Pour lancer le jeu, il suffit de faire un npm i puis un npm start (le jeu se lancera normalement sur le http://localhost:1234 sur le naviguateur)
+Si vous avez une erreur apres avoir fait un "npm i", il se peut que vous n'ayez pas le module "deasync", il suffit alors de faire un "npm install deasync" et cela fonctionnera apres !
